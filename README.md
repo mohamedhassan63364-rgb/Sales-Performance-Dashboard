@@ -93,7 +93,7 @@ The dashboard provides insights into:
 
 ## 🖼️ Dashboard Preview
 
-![Sales Performance Dashboard](dashboard.png)
+![Sales Performance Dashboard](Screenshot 2026-08-15 004102.png)
 
 ## 💡 Key Takeaways
 
